@@ -1,0 +1,9 @@
+C:\Users\elvir\source\repos\MVC_Capacitacion\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\elvir\source\repos\MVC_Capacitacion\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\elvir\source\repos\MVC_Capacitacion\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\elvir\source\repos\MVC_Capacitacion\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\elvir\source\repos\MVC_Capacitacion\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\elvir\source\repos\MVC_Capacitacion\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\elvir\source\repos\MVC_Capacitacion\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\elvir\source\repos\MVC_Capacitacion\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\elvir\source\repos\MVC_Capacitacion\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete

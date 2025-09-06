@@ -1,0 +1,6 @@
+C:\Users\elvir\source\repos\MVC_Capacitacion\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\elvir\source\repos\MVC_Capacitacion\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\elvir\source\repos\MVC_Capacitacion\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\elvir\source\repos\MVC_Capacitacion\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\elvir\source\repos\MVC_Capacitacion\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\elvir\source\repos\MVC_Capacitacion\CapaModelo\obj\Debug\CapaModelo.pdb
